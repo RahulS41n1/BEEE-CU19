@@ -1,4 +1,4 @@
-#EEE LED Chaser
+#BEEE LED Chaser
 
 This is Dual LED Chaser Lights experiment.
 
