@@ -1,1 +1,26 @@
+**Concept Used**:
 
+The entire circuit is build in the concept of input and output. We give an input and according to it the circuits gives an output in the 
+form of flashing of LED. The LED flashes according to the instruction uploaded in the Arduino board. The board is equipped with sets of 
+digital and analog input and output pins. All the instruction executed by the board are given to it using a program written in C 
+programming language. For This experiment we use digital pin 13 as output. The positive terminal of the LED is connected to the digital pin 
+13 and the negative terminal is connected to the ground of the Arduino board.
+
+**Learning & Observation**:
+
+During performing this experiment, I became familiar with obtaining random numbers and working RGB light.
+
+**Problem Troubleshooting**:
+
+I encountered the problem in my code only that the code wasn't working as expected. So, I re-examined the code and corrected it.
+
+**Precautions**:
+
+Make sure you correctly select the board and port in the "Tools" option in Arduino software.
+Handle the Arduino board carefully as a simple damage can made the hardware useless.
+Keep in mind that you should write program that is small in size as it came with low inbuilt memory.
+Carefully connect a resistor to the LED or it will get damaged on working.
+
+**Learning Outcomes**:
+
+Trough this experiment I came to learn about the Arduino board and working of it. Now I can also do more advance things.
